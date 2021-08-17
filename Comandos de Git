@@ -1,0 +1,14 @@
+git checkout (Nombre del archivo ) = Para eliminar todo los cambios 
+git status  ---------> Para saber donde estas.           Abreviado gst .
+git checkout (rama) ----------> Para cambiar de rama     Abreviado gco .
+git branch (rama)  -------------> Para crear una nueva rama .
+git commit -m "txt" --------> Para subir a la nube.
+git diff (Nombre del archivo) ----------> Para ver  cambios realizados en tu archivo .  	
+git add --------> Para añadir cambios realizados.
+git push origin (rama) -------------> Para subir archivo , luego del gcam "txt"  , Abreviado ggpush (rama). 
+git clean -fd ----------------------> Para remover los archivos de color rojo .
+git merge --abort ---------------> Para abortar el merge
+git mergetool  ------------------> Para resolver conflictos cuando múltiples desarrolladores han modificado el mismo archivo.
+git pull origin (rama) = Para subir archivos luego de resolver conflictos , Abreviado ggpull (rama) .
+git clone ---------------> Clonar gits de GitHub.
+git fetch origin (rama) --------------> Antes del gco (rama).
