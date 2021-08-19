@@ -24,4 +24,7 @@ elif edad == 18:
     print("Tienes la edad exacta")
 
 else:
-    print("Por favor ingresa tu edad correspondiente.")        
+    print("Por favor ingresa tu edad correspondiente.")    
+
+
+print("Entonces concluimos que tu nombre es : " + str(nombre)," y tienes " + str(edad) , "años"  )  
