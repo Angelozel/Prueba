@@ -19,3 +19,6 @@ elif años == opcion:
 else:
     print("Por favor escriba cuantos años va trabajando")
 
+print("¡¡¡ ESO ES TODO ESTIMADO Francesco Oropeza Llallihuaman")
+    
+      
