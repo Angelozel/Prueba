@@ -1,5 +1,6 @@
 def run():
-    # Break con el ciclo while : 
+#-----------------------------------------------------------    
+# Break con el ciclo while : 
 
     L = 1000
     numero = 0
